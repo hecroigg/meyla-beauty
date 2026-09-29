@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Add the final production sitemap URL when the client domain is connected.
